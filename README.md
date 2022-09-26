@@ -7,7 +7,7 @@ Global Smart Parking Vehicle Registration Solutions - an unassumingly simple ide
 ## Prototype
 
 Our sharepoint extension in action -
-![Alt Text](./assets/prototype/GVRPrototype.gif)
+![Prototype for global vehicle registration](./assets/prototype/GVRPrototype.gif)
 
 ## Used SharePoint Framework Version
 
