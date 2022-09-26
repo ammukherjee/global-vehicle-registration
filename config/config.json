@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "global-vehicle-registration-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/globalVehicleRegistration/GlobalVehicleRegistrationApplicationCustomizer.js",
+          "manifest": "./src/extensions/globalVehicleRegistration/GlobalVehicleRegistrationApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "GlobalVehicleRegistrationApplicationCustomizerStrings": "lib/extensions/globalVehicleRegistration/loc/{locale}.js"
+  }
+}
