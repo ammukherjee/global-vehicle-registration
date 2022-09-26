@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="GlobalVehicleRegistration"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="b9c15cd8-80e0-4948-b00c-c349371e5577"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

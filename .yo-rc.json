@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "global-vehicle-registration",
+    "libraryId": "a5041be0-3580-4dcc-be4f-22fe62aa9bbb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "global-vehicle-registration",
+    "solutionShortDescription": "global-vehicle-registration description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
